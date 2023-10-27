@@ -1,0 +1,15 @@
+C:\Users\s51633\source\repos\Raetselprogramm\obj\Debug\Raetselprogramm.csprojAssemblyReference.cache
+C:\Users\s51633\source\repos\Raetselprogramm\obj\Debug\Raetselprogramm.csproj.CoreCompileInputs.cache
+C:\Users\s51633\source\repos\Raetselprogramm\bin\Debug\Raetselprogramm.exe.config
+C:\Users\s51633\source\repos\Raetselprogramm\bin\Debug\Raetselprogramm.exe
+C:\Users\s51633\source\repos\Raetselprogramm\bin\Debug\Raetselprogramm.pdb
+C:\Users\s51633\source\repos\Raetselprogramm\obj\Debug\Raetselprogramm.exe
+C:\Users\s51633\source\repos\Raetselprogramm\obj\Debug\Raetselprogramm.pdb
+D:\all\c#\Raetselprogramm\bin\Debug\Raetselprogramm.exe.config
+D:\all\c#\Raetselprogramm\bin\Debug\Raetselprogramm.exe
+D:\all\c#\Raetselprogramm\bin\Debug\Raetselprogramm.pdb
+D:\all\c#\Raetselprogramm\obj\Debug\Raetselprogramm.csproj.AssemblyReference.cache
+D:\all\c#\Raetselprogramm\obj\Debug\Raetselprogramm.csproj.SuggestedBindingRedirects.cache
+D:\all\c#\Raetselprogramm\obj\Debug\Raetselprogramm.csproj.CoreCompileInputs.cache
+D:\all\c#\Raetselprogramm\obj\Debug\Raetselprogramm.exe
+D:\all\c#\Raetselprogramm\obj\Debug\Raetselprogramm.pdb
